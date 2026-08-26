@@ -1,8 +1,8 @@
 [
-  { "slug": "psicologia", "nombre": "Psicología", "categoria": "salud", "icono": "imagenes/psicologia.png", "libros": 3, "podcasts": 2 },
-  { "slug": "sistemas", "nombre": "Ingeniería de sistemas", "categoria": "tecnologia", "icono": "imagenes/sistemas.png", "libros": 0, "podcasts": 0 },
-  { "slug": "medicina", "nombre": "Medicina", "categoria": "salud", "icono": "imagenes/medicina.png", "libros": 0, "podcasts": 0 },
-  { "slug": "diseno", "nombre": "Diseño gráfico", "categoria": "artes", "icono": "imagenes/diseno.png", "libros": 0, "podcasts": 0 },
-  { "slug": "sociologia", "nombre": "Sociología", "categoria": "sociales", "icono": "imagenes/sociologia.png", "libros": 0, "podcasts": 0 },
-  { "slug": "industrial", "nombre": "Ingeniería industrial", "categoria": "tecnologia", "icono": "imagenes/industrial.png", "libros": 0, "podcasts": 0 }
+  { "slug": "psicologia", "nombre": "Psicología", "categoria": "salud", "icono": "imagenes/psicologia.png", "libros": 4, "podcasts": 2 },
+  { "slug": "sistemas", "nombre": "Ingeniería de sistemas", "categoria": "tecnologia", "icono": "imagenes/sistemas.png", "libros": 4, "podcasts": 2 },
+  { "slug": "medicina", "nombre": "Medicina", "categoria": "salud", "icono": "imagenes/medicina.png", "libros": 4, "podcasts": 2 },
+  { "slug": "diseno", "nombre": "Diseño gráfico", "categoria": "artes", "icono": "imagenes/diseno.png", "libros": 4, "podcasts": 2 },
+  { "slug": "sociologia", "nombre": "Sociología", "categoria": "sociales", "icono": "imagenes/sociologia.png", "libros": 4, "podcasts": 2 },
+  { "slug": "industrial", "nombre": "Ingeniería industrial", "categoria": "tecnologia", "icono": "imagenes/industrial.png", "libros": 4, "podcasts": 2 }
 ]
