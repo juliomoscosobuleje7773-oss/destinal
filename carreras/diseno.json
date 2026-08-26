@@ -1,0 +1,169 @@
+{
+    "slug": "diseno",
+    "nombre": "Diseño gráfico",
+    "categoria": "artes",
+    "icono": "imagenes/diseno.png",
+    "resumen": "Transmite ideas y mensajes combinando imágenes, colores, formas y letras de manera atractiva. Crea la identidad visual de marcas, afiches, páginas web y todo tipo de publicidad.",
+    "exigencia": "Media-alta: desarrollo continuo de ideas creativas, manejo de herramientas digitales y correcciones constantes según los requerimientos del cliente.",
+    "campo_laboral": "Agencias publicitarias, estudios de diseño, diseño editorial, producción audiovisual, trabajo independiente. La mayoría necesita armar un portafolio sólido de proyectos después de la carrera para conseguir mejores clientes.",
+    "famosos": [
+  {
+    "imagen": "imagenes/rand.jpg",
+    "nombre": "Paul Rand",
+    "conocido_por": "Diseñador gráfico, creador del logotipo de IBM",
+    "biografia": "Fue uno de los diseñadores gráficos más influyentes del siglo XX, conocido por su enfoque minimalista y su capacidad para crear identidades visuales poderosas.",
+    "resena": "Un referente si te interesa el diseño gráfico y la identidad visual."
+  },
+  {
+    "imagen": "imagenes/scher.jpg",
+    "nombre": "Paula Scher",
+    "conocido_por": "Diseñadora gráfica y tipógrafa, socia de Pentagram",
+    "biografia": "Ha trabajado en proyectos de identidad visual para marcas como Citibank, Microsoft y The Public Theater. Su estilo combina tipografía audaz y colores vibrantes.",
+    "resena": "Una figura clave para entender cómo el diseño gráfico puede influir en la percepción de una marca."
+  },
+  {
+    "imagen": "imagenes/sagmeister.jpg",
+    "nombre": "Stefan Sagmeister",
+    "conocido_por": "Diseñador gráfico y maestro de la tipografía",
+    "biografia": "Su trabajo se centra en la creación de identidades visuales que combinan diseño y comunicación efectiva.",
+    "resena": "Un referente para entender cómo el diseño gráfico puede influir en la comunicación visual."
+  },
+  {
+    "imagen": "imagenes/brody.jpg",
+    "nombre": "Neville Brody",
+    "conocido_por": "Diseñador gráfico y tipógrafo británico",
+    "biografia": "Ha trabajado en revistas como The Face y Arena, y ha creado tipografías innovadoras que han influido en el diseño gráfico contemporáneo.",
+    "resena": "Un referente para entender cómo el diseño gráfico puede influir en la cultura visual."
+  },
+  {
+    "imagen": "imagenes/frutiger.jpg",
+    "nombre": "Adrian Frutiger",
+    "conocido_por": "Diseñador gráfico suizo, creador de tipografías innovadoras",
+    "biografia": "Fue uno de los diseñadores gráficos más influyentes del siglo XX, conocido por su enfoque minimalista y su capacidad para crear identidades visuales poderosas.",
+    "resena": "Un referente si te interesa el diseño gráfico y la tipografía."
+  },
+  {
+    "imagen": "imagenes/saville.jpg",
+    "nombre": "Peter Saville",
+    "conocido_por": "Diseñador gráfico británico, conocido por su trabajo en la identidad visual de bandas musicales",
+    "biografia": "Su trabajo se centra en la creación de identidades visuales que combinan diseño y comunicación efectiva.",
+    "resena": "Un referente para entender cómo el diseño gráfico puede influir en la percepción de la música y la cultura pop."
+  },
+  {
+    "imagen": "imagenes/bierut.jpg",
+    "nombre": "Michael Bierut",
+    "conocido_por": "Diseñador gráfico estadounidense, conocido por su trabajo en la identidad visual de revistas y editoriales",
+    "biografia": "Su trabajo se centra en la creación de identidades visuales que combinan diseño y comunicación efectiva.",
+    "resena": "Un referente para entender cómo el diseño gráfico puede influir en la percepción de la información y la cultura visual."
+  },
+  {
+    "imagen": "imagenes/beck.jpg",
+    "nombre": "Henry Charles Beck",
+    "conocido_por": "Diseñador y urbanista estadounidense, conocido por crear el diseño del sistema de metro de Londres",
+    "biografia": "Su trabajo se centra en la creación de soluciones de diseño que combinan funcionalidad y estética.",
+    "resena": "Un referente para entender cómo el diseño puede influir en la experiencia urbana y la navegación."
+  },
+  {
+    "imagen": "imagenes/davidson.jpg",
+    "nombre": "Carolyn Davidson",
+    "conocido_por": "Diseñadora gráfica estadounidense, creadora del logotipo de Nike",
+    "biografia": "Su trabajo se centra en la creación de identidades visuales que combinan diseño y comunicación efectiva.",
+    "resena": "Un referente para entender cómo el diseño gráfico puede influir en la percepción de las marcas y la cultura popular."
+  },
+  {
+    "imagen": "imagenes/novillo.jpg",
+    "nombre": "José María Cruz Novillo",
+    "conocido_por": "Diseñador gráfico español, creador de logotipos y símbolos institucionales",
+    "biografia": "Su trabajo se centra en la creación de identidades visuales que combinan diseño y comunicación efectiva.",
+    "resena": "Un referente para entender cómo el diseño gráfico puede influir en la percepción de las instituciones y la cultura visual."
+  }
+],
+    "podcasts": [
+      {
+        "titulo": "¿Deberías estudiar Diseño Gráfico? Mi experiencia",
+        "youtube_url": "https://www.youtube.com/watch?v=18WAT6hxzS0",
+        "descripcion": "Comparte con honestidad las ventajas y desafíos reales de estudiar esta carrera desde su propia experiencia."
+      },
+      {
+        "titulo": "¿Cómo es estudiar Diseño Gráfico? Carrera, salidas, tips",
+        "youtube_url": "https://www.youtube.com/watch?v=SzRmJ3ci52A",
+        "descripcion": "Explica todo lo necesario para saber si esta carrera es para ti, incluyendo salidas laborales reales."
+      }
+    ],
+    "libros": [
+      {
+        "titulo": "Pensar con tipos",
+        "autor": "Ellen Lupton",
+        "portada": "imagenes/libro13.jpg",
+        "resena": "Enseña a ver la tipografía como una herramienta de pensamiento, no solo letras bonitas. Un punto de inflexión para cualquier estudiante que recién empieza."
+      },
+      {
+        "titulo": "Diseño de logos",
+        "autor": "David Airey",
+        "portada": "imagenes/libro14.jpg",
+        "resena": "Un diseñador que ha trabajado para Microsoft y FedEx muestra el proceso real de crear una marca, desde el primer boceto hasta la entrega final."
+      },
+      {
+        "titulo": "Cómo ser diseñador gráfico sin perder el alma",
+        "autor": "Adrian Shaughnessy",
+        "portada": "imagenes/libro15.jpg",
+        "resena": "Habla sin rodeos sobre lo más difícil de la profesión: lidiar con clientes, el mercado y mantenerte fiel a tu estilo."
+      },
+      {
+        "titulo": "Psicología del color",
+        "autor": "Eva Heller",
+        "portada": "imagenes/libro16.jpg",
+        "resena": "Explica cómo los colores influyen en las emociones de las personas, algo esencial para cualquier decisión de diseño."
+      }
+    ],
+    "resenas": [
+      {
+        "autor": "Ariana P.",
+        "rol": "Estudiante, 3er ciclo",
+        "texto": "Pensé que iba a estar todo el tiempo dibujando y creando cosas bonitas. La realidad es que hay bastante teoría de comunicación, historia del diseño y hasta psicología del color antes de tocar Photoshop en serio."
+      },
+      {
+        "autor": "Renzo V.",
+        "rol": "Egresado, freelance hace 1 año",
+        "texto": "Lo más difícil no fue aprender los programas, sino aprender a lidiar con clientes que piden cambios sin fin. Eso no te lo enseñan en clase, lo aprendes trabajando y equivocándote."
+      }
+    ],
+    "entrevistas": [
+      {
+        "nombre": "Testimonio de diseñadora en España",
+        "cargo_actual": "Diseñadora gráfica egresada",
+        "video_url": "https://www.youtube.com/watch?v=Sk1odBEIHKE",
+        "resumen": "Cuenta su experiencia estudiando en una escuela pública y cuáles son las salidas laborales reales que encontró al egresar."
+      },
+      {
+        "nombre": "Cómo conseguí ser diseñador sin estudios",
+        "cargo_actual": "Diseñador gráfico autodidacta",
+        "video_url": "https://www.youtube.com/watch?v=q3yrtedqmfY",
+        "resumen": "Un camino alternativo: cómo se puede llegar a trabajar profesionalmente en diseño sin pasar por una carrera universitaria tradicional."
+      }
+    ],
+    "minijuegos": [
+  {
+    "titulo": "Un cliente pide cambios infinitos",
+    "situacion": "Entregaste un logo y el cliente pide un quinto cambio de color, sin razones claras, después de haber aprobado el concepto inicial. ¿Qué haces?",
+    "opciones": [
+      "Haces el cambio gratis, las veces que pida",
+      "Le dices que no puedes hacer más cambios y cierras el proyecto",
+      "Le muestras el acuerdo inicial y explicas que los cambios adicionales tienen un costo extra, ofreciendo alternativas dentro de lo ya aprobado"
+    ],
+    "respuesta_correcta": 2,
+    "explicacion": "Poner límites claros basados en lo acordado protege tu trabajo sin cerrar la relación con el cliente. Es una habilidad tan importante como el diseño mismo en el trabajo freelance."
+  },
+  {
+    "titulo": "Diseñas un afiche para dos públicos distintos",
+    "situacion": "Te piden un afiche que debe funcionar tanto para redes sociales de jóvenes como para imprimir en un periódico para adultos mayores. ¿Qué haces?",
+    "opciones": [
+      "Usas el mismo diseño para ambos, ya que es más rápido",
+      "Adaptas tipografía, tamaño y colores según cada medio y público, aunque el mensaje central se mantenga",
+      "Eliges solo un público y descartas al otro"
+    ],
+    "respuesta_correcta": 1,
+    "explicacion": "Un buen diseñador adapta la pieza al medio y a quién la va a ver — lo que funciona en una pantalla pequeña no necesariamente funciona igual impreso para otro tipo de lector."
+  }
+]
+  }

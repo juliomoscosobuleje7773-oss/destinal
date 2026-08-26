@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Destinal</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="topbar">
+    <a href="index.html" class="brand">
+      <svg width="28" height="28" viewBox="0 0 72 72">
+        <circle cx="36" cy="36" r="30" fill="#EEEDFE" stroke="#534AB7" stroke-width="2"/>
+        <polygon points="36,20 41,36 36,52 31,36" fill="#534AB7"/>
+      </svg>
+      <span class="brand-name">destinal</span>
+    </a>
+    <div class="topbar-icons">
+      <span title="Favoritas">♥</span>
+      <div class="avatar">JP</div>
+    </div>
+  </header>
+
+  <main class="container">
+
+    <a href="buscador.html" class="volver">← Volver a explorar</a>
+
+    <div id="ficha-hero"></div>
+
+    <div id="menu-categorias" class="menu-categorias"></div>
+
+    <div id="panel-categoria" class="panel-categoria" style="display:none;">
+      <button id="btn-volver-menu" class="volver-menu">← Volver a categorías</button>
+      <div id="panel-contenido"></div>
+    </div>
+
+  </main>
+
+  <script src="ficha.js"></script>
+</body>
+</html>

@@ -1,0 +1,146 @@
+  {
+    "slug": "psicologia",
+    "nombre": "Psicología",
+    "categoria": "salud",
+    "icono": "imagenes/psicologia.png",
+    "resumen": "Estudia cómo piensan, sienten y se comportan las personas para ayudarlas a cuidar su salud mental. Enseña a entender las emociones humanas y a solucionar problemas de conducta o convivencia.",
+    "exigencia": "Media-alta: mucha lectura teórica y trabajos de investigación, más carga práctica en los últimos años.",
+    "campo_laboral": "Clínica, organizacional, educativa, forense, investigación. La mayoría necesita una especialización o maestría después de la carrera para ejercer clínicamente.",
+    "famosos": [
+  {
+    "imagen": "imagenes/skinner.png",
+    "nombre": "Burrhus Frederic Skinner",
+    "conocido_por": "Psicólogo conductista, creador de la Caja de Skinner",
+    "biografia": "Estudió psicología en la Universidad de Harvard, donde desarrolló la teoría del condicionamiento operante. Sus investigaciones sobre el comportamiento cambiaron la forma en que se entiende el aprendizaje.",
+    "resena": "Un referente si te interesa el lado más científico y experimental de la psicología."
+  },
+  {
+    "imagen": "imagenes/loftus.png",
+    "nombre": "Elizabeth Loftus",
+    "conocido_por": "Psicóloga especializada en memoria y testimonios legales",
+    "biografia": "Su investigación sobre memoria falsa ha sido usada en cientos de casos judiciales para cuestionar testimonios de testigos oculares.",
+    "resena": "Buen ejemplo de psicología aplicada al sistema legal, no solo a terapia."
+  },
+  {
+    "imagen": "imagenes/carl.png",
+    "nombre": "Carl Gustav Jung",
+    "conocido_por": "Psicólogo suizo, fundador de la psicología analítica",
+    "biografia": "Desarrolló la teoría del inconsciente colectivo y los arquetipos, influyendo profundamente en la psicología moderna.",
+    "resena": "Una figura clave para entender las corrientes más profundas de la psicología."
+  },
+  {
+    "imagen": "imagenes/jona.png",
+    "nombre": "Jonathan Haidt",
+    "conocido_por": "Psicólogo social e investigador centrado en la psicología de la moral",
+    "biografia": "Creó la Teoría de los Fundamentos Morales, que explica que elegimos lo que está bien o mal por corazonadas y emociones, no por razonamiento lógico.",
+    "resena": "Un referente para entender cómo la psicología influye en la política y la sociedad."
+  },
+  {
+    "imagen": "imagenes/angela.png",
+    "nombre": "Angela Lee Duckworth",
+    "conocido_por": "Psicóloga de la Universidad de Pensilvania, especializada en resiliencia y perseverancia",
+    "biografia": "Su investigación se centra en la importancia de la perseverancia y la resiliencia en el éxito académico y profesional.",
+    "resena": "Un referente para entender cómo la psicología influye en la educación y el desarrollo personal."
+  },
+  {
+    "imagen": "imagenes/dan.png",
+    "nombre": "Dan Ariely",
+    "conocido_por": "Psicólogo israelí, especializado en comportamiento humano y toma de decisiones",
+    "biografia": "Su investigación se centra en cómo los factores emocionales y sociales influyen en las decisiones económicas y el comportamiento humano.",
+    "resena": "Un referente para entender cómo la psicología influye en la economía y la toma de decisiones."
+  },
+  {
+    "imagen": "imagenes/lisa.png",
+    "nombre": "Lisa Feldman Barrett",
+    "conocido_por": "Psicóloga estadounidense, especializada en emociones y cerebro",
+    "biografia": "Su investigación se centra en cómo las emociones son procesadas en el cerebro y cómo esto influye en el comportamiento humano.",
+    "resena": "Un referente para entender cómo la psicología influye en la comprensión de las emociones y el comportamiento."
+  },
+  {
+    "imagen": "imagenes/william.png",
+    "nombre": "William James",
+    "conocido_por": "Filósofo y psicólogo estadounidense, considerado el padre de la psicología moderna",
+    "biografia": "Desarrolló la teoría de la conciencia y la psicología funcional, influyendo en la forma en que se estudia la mente y el comportamiento humano.",
+    "resena": "Un referente para entender cómo la psicología influye en la filosofía y la comprensión de la mente."
+  },
+  {
+    "imagen": "imagenes/john.png",
+    "nombre": "John B. Watson",
+    "conocido_por": "Psicólogo estadounidense, fundador de la psicología conductista",
+    "biografia": "Desarrolló la teoría del conductismo, enfocándose en el comportamiento observable y medible.",
+    "resena": "Un referente para entender cómo la psicología influye en el comportamiento humano y la educación."
+  },
+  {
+    "imagen": "imagenes/erik.png",
+    "nombre": "Erik Homburger Erikson",
+    "conocido_por": "Psicólogo y psicoanalista alemán-estadounidense, conocido por su teoría del desarrollo psicosocial",
+    "biografia": "Desarrolló la teoría del desarrollo psicosocial, enfocándose en los conflictos psicosexuales y su impacto en el desarrollo humano.",
+    "resena": "Un referente para entender cómo la psicología influye en el desarrollo humano y la educación."
+  }
+],
+    "podcasts": [
+      {
+        "titulo": "¿Y ahora qué estudio? 🤔 | PSICOLOGÍA 🧠| ¡Conoce la carrera! 🙌",
+        "youtube_url": "https://www.youtube.com/watch?v=0OPJ_2lZclg",
+        "descripcion": "Conoce áreas de estudio, materias que se estudian y cuál será tu perfil de egreso de la licenciatura en Psicología."
+      },
+      {
+        "titulo": "Antes de ESTUDIAR PSICOLOGÍA deberías saber esto",
+        "youtube_url": "https://www.youtube.com/watch?v=qwLSIXX62S4",
+        "descripcion": "Qué cosas debo saber antes de estudiar psicología, qué hace un psicólogo y qué no hace, y cómo es la carrera."
+      }
+    ],
+    "libros": [
+      {
+        "titulo": "El hombre en busca de sentido",
+        "autor": "Viktor Frankl",
+        "portada": "imagenes/libro1.png",
+        "resena": "Un psiquiatra cuenta su experiencia real en un campo de concentración y cómo encontrar sentido incluso en el peor sufrimiento. Corto, profundo y muy fácil de leer."
+      },
+      {
+        "titulo": "Inteligencia emocional",
+        "autor": "Daniel Goleman",
+        "portada": "imagenes/libro2.png",
+        "resena": "Explica por qué manejar bien las emociones importa más que el coeficiente intelectual para tener éxito en la vida. Ideal para entender relaciones y autocontrol."
+      },
+      {
+        "titulo": "El efecto Lucifer",
+        "autor": "Philip Zimbardo",
+        "portada": "imagenes/libro3.png",
+        "resena": "Basado en el famoso experimento de la prisión de Stanford, explora cómo personas normales pueden volverse crueles según la situación. Se lee casi como una historia de suspenso."
+      },
+      {
+        "titulo": "Pensar rápido, pensar despacio",
+        "autor": "Daniel Kahneman",
+        "portada": "imagenes/libro4.png",
+        "resena": "Por qué vale la pena leerlo, en una o dos frases."
+      }
+    ],
+    "resenas": [
+      {
+        "autor": "Valentina R.",
+        "rol": "Estudiante, 2do año",
+        "texto": "Entré pensando que iba a sentarme a escuchar pacientes desde el primer ciclo, como en las películas. La realidad es que los dos primeros años son pura teoría, estadística y hasta biología. Si te gusta solo la parte de 'ayudar a la gente', prepárate para primero entender la ciencia detrás."
+      },
+      {
+        "autor": "Diego M.",
+        "rol": "Egresado, 1 año trabajando",
+        "texto": "Lo que más me costó no fue la teoría, sino aprender a manejar casos reales sin involucrarme emocionalmente de más. Eso no te lo enseña ningún libro, se aprende recién en las prácticas. Vale mucho la pena, pero nadie te avisa lo agotador que puede ser al inicio."
+      }
+    ],
+    "entrevistas": [
+      {
+        "nombre": "Ayelén Lambert",
+        "cargo_actual": "Psicóloga clínica",
+        "video_url": "https://www.youtube.com/watch?v=NJz6CgG3KWU",
+        "resumen": "Ayelén nos cuenta cómo es estudiar psicología, qué hace un psicólogo clínico y cómo es la vida laboral en esta área."
+      },
+      {
+        "nombre": "Sara",
+        "cargo_actual": "Psicóloga organizacional",
+        "video_url": "https://www.youtube.com/watch?v=0Nk6TMt0opA",
+        "resumen": "Sara nos cuenta cómo es estudiar psicología, qué hace un psicólogo organizacional y cómo es la vida laboral en esta área."
+      }
+    ]
+    
+  }

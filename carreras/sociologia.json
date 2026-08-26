@@ -1,0 +1,169 @@
+{
+    "slug": "sociologia",
+    "nombre": "Sociología",
+    "categoria": "sociales",
+    "icono": "imagenes/sociologia.png",
+    "resumen": "Analiza cómo se organizan las sociedades, sus costumbres y los problemas que surgen en los grupos humanos. Busca entender las tendencias sociales para proponer mejoras en la comunidad.",
+    "exigencia": "Media-alta: abundante lectura teórica, diseño de encuestas, trabajo de campo en comunidades y redacción de informes analíticos.",
+    "campo_laboral": "Proyectos sociales, investigación académica, ONG, entidades públicas, consultoría de mercado. La mayoría necesita estudios de posgrado o posgrados especializados después de la carrera para liderar proyectos complejos.",
+    "famosos": [
+  {
+    "imagen": "imagenes/comte.jpg",
+    "nombre": "Auguste Comte",
+    "conocido_por": "Sociólogo fundador de la sociología",
+    "biografia": "Fue el fundador de la sociología y propuso el positivismo como método de investigación social.",
+    "resena": "Un referente para entender los orígenes de la sociología como disciplina científica."
+  },
+  {
+    "imagen": "imagenes/marx.jpg",
+    "nombre": "Carl Marx",
+    "conocido_por": "Sociólogo y economista, fundador del marxismo",
+    "biografia": "Fue uno de los sociólogos más influyentes del siglo XIX, conocido por su análisis crítico de la sociedad capitalista y su teoría sobre la lucha de clases.",
+    "resena": "Un referente para entender los fundamentos teóricos de la sociología y el análisis social."
+  },
+  {
+    "imagen": "imagenes/parsons.jpg",
+    "nombre": "Talcott Parsons",
+    "conocido_por": "Sociólogo estadounidense, fundador de la teoría funcionalista",
+    "biografia": "Fue uno de los sociólogos más influyentes del siglo XX, conocido por su teoría sobre la estructura social y la función de las instituciones.",
+    "resena": "Un referente para entender cómo la sociología analiza la estructura y el funcionamiento de la sociedad."
+  },
+  {
+    "imagen": "imagenes/merton.jpg",
+    "nombre": "Robert King Merton",
+    "conocido_por": "Sociólogo estadounidense, conocido por su trabajo en la teoría de la acción social",
+    "biografia": "Fue uno de los sociólogos más influyentes del siglo XX, conocido por su enfoque en la teoría de la acción social y su análisis de las instituciones.",
+    "resena": "Un referente para entender cómo la sociología analiza el comportamiento humano y las instituciones sociales."
+  },
+  {
+    "imagen": "imagenes/elias.jpg",
+    "nombre": "Norbert Elias",
+    "conocido_por": "Sociólogo alemán, conocido por su trabajo en la teoría de la socialización",
+    "biografia": "Fue uno de los sociólogos más influyentes del siglo XX, conocido por su enfoque en la teoría de la socialización y su análisis de las instituciones.",
+    "resena": "Un referente para entender cómo la sociología analiza el desarrollo social y la identidad individual."
+  },
+  {
+    "imagen": "imagenes/goffman.jpg",
+    "nombre": "Erving Goffman",
+    "conocido_por": "Sociólogo canadiense, conocido por su trabajo en la teoría de la interactión social",
+    "biografia": "Fue uno de los sociólogos más influyentes del siglo XX, conocido por su enfoque en la teoría de la interactión social y su análisis de las instituciones.",
+    "resena": "Un referente para entender cómo la sociología analiza la interacción humana en contextos sociales."
+  },
+  {
+    "imagen": "imagenes/giddens.jpg",
+    "nombre": "Anthony Giddens",
+    "conocido_por": "Sociólogo británico, conocido por su trabajo en la teoría de la modernidad y la globalización",
+    "biografia": "Fue uno de los sociólogos más influyentes del siglo XX, conocido por su enfoque en la teoría de la modernidad y la globalización.",
+    "resena": "Un referente para entender cómo la sociología analiza los cambios sociales y la globalización."
+  },
+  {
+    "imagen": "imagenes/bauman.jpg",
+    "nombre": "Zygmunt Bauman",
+    "conocido_por": "Sociólogo polaco, conocido por su trabajo en la teoría de la modernidad líquida",
+    "biografia": "Fue uno de los sociólogos más influyentes del siglo XX, conocido por su enfoque en la teoría de la modernidad líquida y su análisis de la sociedad contemporánea.",
+    "resena": "Un referente para entender cómo la sociología analiza los cambios sociales en el mundo contemporáneo."
+  },
+  {
+    "imagen": "imagenes/ulrich.jpg",
+    "nombre": "Ulrich Beck",
+    "conocido_por": "Sociólogo alemán, conocido por su trabajo en la teoría de la sociedad del riesgo",
+    "biografia": "Fue uno de los sociólogos más influyentes del siglo XX, conocido por su enfoque en la teoría de la sociedad del riesgo y su análisis de los problemas sociales contemporáneos.",
+    "resena": "Un referente para entender cómo la sociología analiza los riesgos y problemas sociales en el mundo contemporáneo."
+  },
+  {
+    "imagen": "imagenes/sassen.jpg",
+    "nombre": "Saskia Sassen",
+    "conocido_por": "Socióloga estadounidense, conocida por su trabajo en la teoría de la globalización y la ciudad",
+    "biografia": "Fue una de las sociólogas más influyentes del siglo XX, conocida por su enfoque en la teoría de la globalización y la ciudad.",
+    "resena": "Un referente para entender cómo la sociología analiza los impactos de la globalización en las ciudades y las sociedades."
+  }
+],
+    "podcasts": [
+      {
+        "titulo": "¿Cómo es estudiar Sociología? ¿Me arrepiento?",
+        "youtube_url": "https://www.youtube.com/watch?v=lyj0nsi2Rbc",
+        "descripcion": "Un testimonio honesto y personal sobre cómo fue realmente la experiencia de estudiar esta carrera."
+      },
+      {
+        "titulo": "12 cosas que debes saber si quieres estudiar Sociología",
+        "youtube_url": "https://www.youtube.com/watch?v=EPfKCisbp6o",
+        "descripcion": "Un licenciado en sociología comparte consejos clave y aclara que la carrera tiene más salidas laborales de las que la gente cree."
+      }
+    ],
+    "libros": [
+      {
+        "titulo": "Introducción a la sociología",
+        "autor": "Peter L. Berger",
+        "portada": "imagenes/libro17.jpg",
+        "resena": "Un clásico accesible que explica para qué sirve realmente estudiar la sociedad. Uno de los textos más usados para empezar en la carrera."
+      },
+      {
+        "titulo": "Internados",
+        "autor": "Erving Goffman",
+        "portada": "imagenes/libro18.jpg",
+        "resena": "Analiza cómo instituciones como hospitales psiquiátricos o prisiones moldean la identidad de quienes viven en ellas. Un clásico que sigue vigente."
+      },
+      {
+        "titulo": "La imaginación sociológica",
+        "autor": "C. Wright Mills",
+        "portada": "imagenes/libro19.jpg",
+        "resena": "Cambia la forma en que ves el mundo, conectando problemas personales con estructuras sociales más grandes. Muy citado por despertar pensamiento crítico."
+      },
+      {
+        "titulo": "El libro de la sociología",
+        "autor": "Varios autores (DK)",
+        "portada": "imagenes/libro20.jpg",
+        "resena": "Explica con lenguaje claro y esquemas visuales las teorías más complejas de autores como Bourdieu o Weber. Ideal para principiantes."
+      }
+    ],
+    "resenas": [
+      {
+        "autor": "Fabiola N.",
+        "rol": "Estudiante, 2do año",
+        "texto": "Mucha gente cree que sociología es 'opinar de política todo el día', pero en realidad es una carrera con bastante método de investigación, estadística y trabajo de campo real."
+      },
+      {
+        "autor": "Martín Q.",
+        "rol": "Egresado, trabaja en una ONG (Organización No Gubernamental)",
+        "texto": "Lo que más me sorprendió fue lo aplicable que es en el mundo laboral real: investigación social, políticas públicas, recursos humanos. No es una carrera solo 'teórica' como muchos piensan antes de estudiarla."
+      }
+    ],
+    "entrevistas": [
+      {
+        "nombre": "Campo laboral para Sociología",
+        "cargo_actual": "Sociólogo, creador de contenido",
+        "video_url": "https://www.youtube.com/watch?v=KiVUREdtHOc",
+        "resumen": "Responde la pregunta más frecuente sobre la carrera: en qué rubros reales se puede trabajar después de egresar."
+      },
+      {
+        "nombre": "La profesión sociológica",
+        "cargo_actual": "Panorama general de la profesión",
+        "video_url": "https://www.youtube.com/watch?v=ofo01arxEnI",
+        "resumen": "Explica de forma breve qué es la sociología como profesión y a qué se dedican realmente los sociólogos en su día a día laboral."
+      }
+    ],
+    "minijuegos": [
+  {
+    "titulo": "Un barrio pide ayuda para entender un conflicto vecinal",
+    "situacion": "Te contratan como socióloga para investigar por qué ha aumentado la desconfianza entre vecinos de un barrio. ¿Cuál es tu primer paso?",
+    "opciones": [
+      "Aplicar una encuesta general a toda la ciudad",
+      "Realizar entrevistas y observación directa en el barrio para entender el contexto específico antes de sacar conclusiones",
+      "Dar tu opinión personal sobre el problema sin investigar"
+    ],
+    "respuesta_correcta": 1,
+    "explicacion": "La investigación social parte de entender el contexto específico del grupo estudiado, usando métodos como entrevistas u observación, antes de generalizar o proponer soluciones."
+  },
+  {
+    "titulo": "Presentas resultados que contradicen la idea inicial del cliente",
+    "situacion": "Una empresa te pidió estudiar por qué sus empleados renuncian, esperando que la causa sea el sueldo. Tu investigación muestra que el problema real es el ambiente laboral. ¿Qué haces?",
+    "opciones": [
+      "Presentas los resultados reales con la evidencia que los respalda, aunque contradigan la expectativa inicial",
+      "Presentas solo lo que la empresa esperaba escuchar",
+      "No entregas el informe para evitar el conflicto"
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "La honestidad científica es central en la investigación social: los datos se presentan tal como son, incluso si contradicen lo que el cliente esperaba encontrar."
+  }
+]
+  }

@@ -1,0 +1,169 @@
+{
+    "slug": "sistemas",
+    "nombre": "Ingeniería de sistemas",
+    "categoria": "tecnologia",
+    "icono": "imagenes/sistemas.png",
+    "resumen": "Desarrollo de software, ciberseguridad, inteligencia artificial, redes, gestión de bases de datos.",
+    "exigencia": "Alta: resolución continua de problemas lógicos, análisis de código y diseño de soluciones, con constante aprendizaje autónomo.",
+    "campo_laboral": "Desarrollo de software, ciberseguridad, inteligencia artificial, redes, gestión de bases de datos. La mayoría requiere actualización constante y certificaciones técnicas después de la carrera para destacar en el mercado.",
+    "famosos": [
+  {
+    "imagen": "imagenes/berners-lee.png",
+    "nombre": "Timothy Berners-Lee",
+    "conocido_por": "Inventor de la World Wide Web",
+    "biografia": "Desarrolló la idea de la World Wide Web en 1989 mientras trabajaba en el CERN. Su invención revolutionó la forma en que compartimos y accedemos a la información.",
+    "resena": "Un referente para entender cómo la tecnología puede transformar la sociedad."
+  },
+  {
+    "imagen": "imagenes/van-rossum.png",
+    "nombre": "Guido van Rossum",
+    "conocido_por": "Creador del lenguaje de programación Python",
+    "biografia": "Desarrolló el lenguaje de programación Python en los años 90. Su objetivo era crear un lenguaje de programación fácil de leer y escribir, con un enfoque en la simplicidad y la legibilidad.",
+    "resena": "Un referente para entender cómo la tecnología puede facilitar la vida diaria y mejorar la productividad."
+  },
+  {
+    "imagen": "imagenes/wall.png",
+    "nombre": "Larry Wall",
+    "conocido_por": "Creador del lenguaje de programación Perl",
+    "biografia": "Desarrolló el lenguaje de programación Perl en los años 80. Su objetivo era crear un lenguaje de programación versátil y potente, con un enfoque en la manipulación de texto y la automatización de tareas.",
+    "resena": "Un referente para entender cómo la tecnología puede ser utilizada para resolver problemas complejos y mejorar la eficiencia."
+  },
+  {
+    "imagen": "imagenes/lamport.png",
+    "nombre": "Leslie Lamport",
+    "conocido_por": "Creador del algoritmo de consenso de Lamport",
+    "biografia": "Desarrolló el algoritmo de consenso de Lamport, que es fundamental en la teoría de sistemas distribuidos. Su trabajo ha sido crucial para el desarrollo de sistemas concurrentes y distribuidos.",
+    "resena": "Un referente para entender cómo la tecnología puede ser utilizada para garantizar la consistencia y la confiabilidad en sistemas distribuidos."
+  },
+  {
+    "imagen": "imagenes/jeff.png",
+    "nombre": "Jeff Dean",
+    "conocido_por": "Ingeniero de Google, especializado en sistemas distribuidos y machine learning",
+    "biografia": "Desarrolló tecnologías clave en Google, incluyendo el sistema de almacenamiento distribuido GFS y el marco de machine learning TensorFlow.",
+    "resena": "Un referente para entender cómo la tecnología puede ser utilizada para desarrollar sistemas de machine learning a gran escala."
+  },
+  {
+    "imagen": "imagenes/andy.png",
+    "nombre": "Andy Rubin",
+    "conocido_por": "Ingeniero de software y fundador de Android",
+    "biografia": "Fue uno de los principales desarrolladores de Android y ha contribuido significativamente al desarrollo de sistemas operativos móviles.",
+    "resena": "Un referente para entender cómo la tecnología puede ser utilizada para desarrollar sistemas operativos móviles."
+  },
+  {
+    "imagen": "imagenes/rivest.png",
+    "nombre": "Ronald Rivest",
+    "conocido_por": "Científico de la computación estadounidense, especializado en criptografía y algoritmos",
+    "biografia": "Desarrolló el algoritmo RSA, junto con Adi Shamir y Leonard Adleman, que es fundamental en la criptografía moderna.",
+    "resena": "Un referente para entender cómo la tecnología puede ser utilizada para garantizar la seguridad y la privacidad en las comunicaciones digitales."
+  },
+  {
+    "imagen": "imagenes/linus.png",
+    "nombre": "Linus Torvalds",
+    "conocido_por": "Creador del kernel de Linux y del sistema de control de versiones Git",
+    "biografia": "Desarrolló el kernel de Linux y el sistema de control de versiones Git, contribuyendo significativamente al desarrollo de software libre y abierto.",
+    "resena": "Un referente para entender cómo la tecnología puede ser utilizada para fomentar la colaboración y el desarrollo de software abierto."
+  },
+  {
+    "imagen": "imagenes/sophie.png",
+    "nombre": "Sophie Mary Wilson",
+    "conocido_por": "Científica británica que diseñó el cerebro electrónico que usan casi todos los celulares de hoy.",
+    "biografia": "Creó el procesador ARM que cambió el mundo.",
+    "resena": "Una referente para entender la pasión por crear y armar sus propias computadoras."
+  },
+  {
+    "imagen": "imagenes/grady.png",
+    "nombre": "Grady Booch",
+    "conocido_por": "Ingeniero de software y arquitecto, conocido por su trabajo en el desarrollo de software y la metodología de diseño orientado a objetos",
+    "biografia": "Desarrolló la metodología de diseño orientado a objetos y contribuyó significativamente al desarrollo de lenguajes de programación y frameworks.",
+    "resena": "Un referente para entender cómo la ingeniería de software puede facilitar la creación de sistemas complejos y bien estructurados."
+  }
+],
+    "podcasts": [
+      {
+        "titulo": "Estudiar Ingeniería en Sistemas ¿Cuánto Gana un Ingeniero? ¿Vale la pena la Carrera?",
+        "youtube_url": "https://www.youtube.com/watch?v=al34xGQ45N0",
+        "descripcion": "Discutimos los aspectos económicos y laborales de estudiar Ingeniería en Sistemas."
+      },
+      {
+        "titulo": "¿Qué es la Ingeniería en Sistemas? ¿Qué hace un ingeniero en sistemas?",
+        "youtube_url": "https://www.youtube.com/watch?v=hgitkRjrUuY",
+        "descripcion": "Exploramos las responsabilidades y el día a día de un ingeniero en sistemas."
+      }
+    ],
+    "libros": [
+      {
+        "titulo": "El mito del hombre-mes",
+        "portada": "imagenes/libro5.png",
+        "autor": "Frederick P. Brooks Jr.",
+        "resena": "Un clásico que explica por qué agregar más gente a un proyecto retrasado casi siempre lo empeora. Perfecto para entender gestión de proyectos de software desde ya."
+      },
+      {
+        "titulo": "Clean Code",
+        "portada": "imagenes/libro6.png",
+        "autor": "Robert C. Martin",
+        "resena": "Enseña a escribir código que cualquier otro programador pueda entender fácilmente. Es de los primeros libros que recomiendan una vez ya sabes programar lo básico."
+      },
+      {
+        "titulo": "Habilidades blandas para ingenieros",
+        "portada": "imagenes/libro7.png",
+        "autor": "Varios autores",
+        "resena": "Un ingeniero de sistemas no solo programa: negocia, presenta ideas y trabaja en equipo. Este libro cubre justamente lo que la malla curricular no enseña."
+      },
+      {
+        "titulo": "Estructuras de datos y algoritmos",
+        "portada": "imagenes/libro8.png",
+        "autor": "Robert Lafore",
+        "resena": "Explica de forma clara y con ejemplos los conceptos base que vas a usar en toda la carrera, sin importar el lenguaje de programación que uses."
+      }
+    ],
+    "resenas": [
+      {
+        "autor": "Fernando A.",
+        "rol": "Estudiante, 3er año",
+        "texto": "Antes de entrar pensé que iba a programar desde el primer ciclo. La realidad es que primero pasas por bastante matemática y lógica pura, recién en segundo o tercer año empiezas a programar en serio. Si te gusta resolver problemas, igual te va a encantar."
+      },
+      {
+        "autor": "Camila S.",
+        "rol": "Egresada, 2 años trabajando",
+        "texto": "Lo que la universidad no te dice es que vas a tener que seguir aprendiendo por tu cuenta toda la vida — la tecnología cambia tan rápido que ninguna malla curricular alcanza a cubrirlo todo. Si no te gusta investigar solo, se hace cuesta arriba."
+      }
+    ],
+    "entrevistas": [
+      {
+        "nombre": "Miguel González",
+        "cargo_actual": "Ingeniero de desarrollo de pruebas en Microsoft",
+        "video_url": "https://www.youtube.com/watch?v=g9e942uwOw4",
+        "resumen": "Egresado que hoy trabaja en una de las empresas de tecnología más grandes del mundo, contando cómo fue su camino desde la universidad."
+      },
+      {
+        "nombre": "Matías",
+        "cargo_actual": "Ingeniero en Sistemas, radicado en Alemania",
+        "video_url": "https://www.youtube.com/watch?v=yk_WUgt6z4U",
+        "resumen": "Comparte consejos honestos sobre si la carrera es para ti y cómo es realmente la salida laboral, desde su propia experiencia migrando a trabajar en Europa."
+      }
+    ],
+    "minijuegos": [
+  {
+    "titulo": "Un proyecto se está retrasando",
+    "situacion": "Tu equipo lleva 3 semanas de retraso en un proyecto de software. Tu jefe sugiere contratar 3 programadores más de inmediato para 'acelerar' la entrega. ¿Qué le dices?",
+    "opciones": [
+      "Que agregar gente nueva a estas alturas podría retrasar aún más el proyecto, porque hay que capacitarlos primero",
+      "Que es buena idea, más gente siempre avanza más rápido",
+      "Que mejor cancelen el proyecto"
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "Esto se conoce como la Ley de Brooks: agregar personas a un proyecto de software ya retrasado casi siempre lo atrasa más, porque el tiempo de capacitación y coordinación supera el beneficio inicial."
+  },
+  {
+    "titulo": "Un cliente pide un cambio de último momento",
+    "situacion": "Estás por entregar un sistema y el cliente pide agregar una función nueva que no estaba en el acuerdo original, sin mover la fecha de entrega. ¿Qué haces?",
+    "opciones": [
+      "Aceptas y trabajas horas extra sin decir nada",
+      "Rechazas el cambio sin explicación",
+      "Le explicas que ese cambio afecta el tiempo o el costo, y le das opciones concretas para decidir"
+    ],
+    "respuesta_correcta": 2,
+    "explicacion": "Gestionar bien el alcance de un proyecto significa comunicar con claridad el impacto de cualquier cambio, dando al cliente información real para decidir, en vez de absorber el costo en silencio o negarte sin justificar."
+  }
+]
+  }

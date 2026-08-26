@@ -1,0 +1,145 @@
+{
+    "slug": "industrial",
+    "nombre": "Ingeniería industrial",
+    "categoria": "tecnologia",
+    "icono": "imagenes/industrial.png",
+    "resumen": "Optimiza los procesos de producción y trabajo para ahorrar tiempo, dinero y recursos en una empresa. Organiza al personal, la maquinaria y las materias primas para lograr la máxima eficiencia.",
+    "exigencia": "Alta: análisis continuo de datos, supervisión de procesos operativos, gestión de equipos y reuniones de optimización de recursos.",
+    "campo_laboral": "Gestión de operaciones, logística, control de calidad, recursos humanos, finanzas corporativas. La mayoría necesita diplomados o maestrías en gestión empresarial después de la carrera para asumir cargos directivos.",
+    "famosos": [
+  {
+    "imagen": "imagenes/cook.jpg",
+    "nombre": "Tim Cook",
+    "conocido_por": "CEO de Apple Inc.",
+    "biografia": "Timothy Donald Cook es un ingeniero industrial y empresario estadounidense, conocido por ser el director ejecutivo de Apple Inc. desde 2011. Antes de convertirse en CEO, Cook desempeñó roles clave en la gestión de operaciones y cadena de suministro de la empresa, optimizando procesos y mejorando la eficiencia.",
+    "resena": "Un referente si te interesa cómo la ingeniería industrial puede aplicarse a la gestión de empresas tecnológicas y la optimización de procesos a gran escala."
+  },
+  {
+    "imagen": "imagenes/hubbert.jpg",
+    "nombre": "M. King Hubbert",
+    "conocido_por": "Geólogo y economista, conocido por su trabajo en la teoría de la producción de petróleo",
+    "biografia": "Fue un geólogo y economista estadounidense, conocido por su trabajo en la teoría de la producción de petróleo y su análisis del crecimiento económico.",
+    "resena": "Un referente para entender cómo la ingeniería industrial puede aplicarse al análisis de recursos naturales y la planificación energética."
+  },
+  {
+    "imagen": "imagenes/devol.jpg",
+    "nombre": "George Devol",
+    "conocido_por": "Ingeniero industrial e inventor, conocido por su trabajo en la automatización y la robótica",
+    "biografia": "Fue un ingeniero industrial e inventor estadounidense, conocido por su trabajo en la automatización y la robótica, incluyendo la invención del primer robot industrial.",
+    "resena": "Un referente para entender cómo la ingeniería industrial puede aplicarse a la automatización y la eficiencia en la producción."
+  },
+  {
+    "imagen": "imagenes/whitney.jpg",
+    "nombre": "Eli Whitney",
+    "conocido_por": "Ingeniero industrial y empresario, conocido por su trabajo en la invención de la desmotadora de algodón",
+    "biografia": "Fue un ingeniero industrial y empresario estadounidense, conocido por su trabajo en la invención de la desmotadora de algodón.",
+    "resena": "Un referente para entender cómo la ingeniería industrial puede aplicarse a la optimización de procesos de producción y la eficiencia en la manufactura."
+  },
+  {
+    "imagen": "imagenes/ford.jpg",
+    "nombre": "Henry Ford",
+    "conocido_por": "Ingeniero industrial y empresario, fundador de Ford Motor Company",
+    "biografia": "Fue un ingeniero industrial y empresario estadounidense, conocido por ser el fundador de Ford Motor Company y por su trabajo en la producción en masa de automóviles.",
+    "resena": "Un referente de la producción en masa y la eficiencia industrial, demostrando cómo fabricar más rápido y a menor costo."
+  },
+  {
+    "imagen": "imagenes/emerson.jpg",
+    "nombre": "Harrington Emerson",
+    "conocido_por": "Ingeniero industrial y consultor de gestión, conocido por su trabajo en la eficiencia y la productividad",
+    "biografia": "Fue un ingeniero industrial y consultor de gestión, conocido por su trabajo en la eficiencia y la productividad.",
+    "resena": "Un referente para entender cómo la ingeniería industrial puede aplicarse a la mejora de la eficiencia y la productividad en las organizaciones."
+  },
+  {
+    "imagen": "imagenes/gilbreth.jpg",
+    "nombre": "Lillian Moller Gilbreth",
+    "conocido_por": "Ingeniera industrial y psicóloga, conocida por su trabajo en la eficiencia y la productividad",
+    "biografia": "Fue una de las ingenieras industriales más influyentes del siglo XX, conocida por su enfoque en la eficiencia y la productividad.",
+    "resena": "Un referente para entender cómo la ingeniería industrial puede aplicarse combinando aspectos técnicos y humanos."
+  },
+  {
+    "imagen": "imagenes/barra.jpg",
+    "nombre": "Mary Barra",
+    "conocido_por": "CEO de General Motors",
+    "biografia": "Mary Teresa Barra es una ingeniera industrial y empresaria estadounidense, conocida por ser la directora ejecutiva de General Motors desde 2014.",
+    "resena": "Un referente si te interesa cómo la ingeniería industrial puede aplicarse a la gestión de empresas automotrices y la optimización de procesos en la industria."
+  },
+  {
+    "imagen": "imagenes/khan.jpg",
+    "nombre": "Shahid Khan",
+    "conocido_por": "Empresario e ingeniero industrial, propietario de Flex-N-Gate y del equipo de fútbol americano Jacksonville Jaguars",
+    "biografia": "Shahid Khan es un empresario e ingeniero industrial estadounidense de origen paquistaní, conocido por ser el propietario de Flex-N-Gate y del equipo de fútbol americano Jacksonville Jaguars.",
+    "resena": "Un referente si te interesa cómo la ingeniería industrial puede aplicarse a la gestión empresarial y la optimización de procesos en la industria automotriz."
+  },
+  {
+    "imagen": "imagenes/shotwell.jpg",
+    "nombre": "Gwynne Shotwell",
+    "conocido_por": "Presidenta y COO de SpaceX",
+    "biografia": "Gwynne Shotwell es una ingeniera industrial y empresaria estadounidense, conocida por ser la presidenta y directora ejecutiva de SpaceX.",
+    "resena": "Un referente si te interesa cómo la ingeniería industrial puede aplicarse a la gestión de empresas espaciales y la optimización de procesos en la industria aeroespacial."
+  }
+],
+    "podcasts": [
+      {
+        "titulo": "Estudiar Ingeniería Industrial ¿Cómo es? ¿De qué trabajan?",
+        "youtube_url": "https://www.youtube.com/watch?v=BN7RBNwzBs4",
+        "descripcion": "Explica los temas más importantes de la carrera y las salidas laborales reales que tiene un ingeniero industrial."
+      },
+      {
+        "titulo": "¿Vale la pena estudiar Ingeniería Industrial?",
+        "youtube_url": "https://www.youtube.com/watch?v=iaWz5j9xoxU",
+        "descripcion": "Comparte experiencia personal sobre si la carrera es fácil, qué se necesita para estudiarla y el salario promedio real."
+      }
+    ],
+    "libros": [
+      {
+        "titulo": "La Meta",
+        "autor": "Eliyahu M. Goldratt",
+        "portada": "imagenes/libro21.jpg",
+        "resena": "Un clásico contado como novela, no como manual, que enseña a identificar cuellos de botella en cualquier proceso productivo. El libro más recomendado para empezar en la carrera."
+      },
+      {
+        "titulo": "Administración de Operaciones",
+        "autor": "Richard Chase",
+        "portada": "imagenes/libro22.jpg",
+        "resena": "Combina teoría con casos reales sobre cómo mejorar el rendimiento de cualquier organización, desde planificación hasta cadenas de suministro."
+      },
+      {
+        "titulo": "Ingeniería Industrial: Métodos, estándares y diseño del trabajo",
+        "autor": "Benjamin W. Niebel y Andris Freivalds",
+        "portada": "imagenes/libro23.jpg",
+        "resena": "Un enfoque práctico sobre cómo mejorar procesos de trabajo, considerando también el bienestar de las personas involucradas, no solo la eficiencia."
+      },
+      {
+        "titulo": "Toyota: la fábrica de la excelencia",
+        "autor": "Basado en el modelo Toyota",
+        "portada": "imagenes/libro24.jpg",
+        "resena": "Analiza el modelo de gestión de Toyota, clave para entender la cultura de mejora continua y calidad que se usa en casi toda la industria hoy."
+      }
+    ],
+    "resenas": [
+      {
+        "autor": "Ximena L.",
+        "rol": "Estudiante, 3er año",
+        "texto": "Pensé que ingeniería industrial era solo manejar fábricas, pero he visto compañeros trabajando en logística de bancos, hospitales y hasta líneas de espera de atención al cliente. Es más amplia de lo que parece."
+      },
+      {
+        "autor": "Bruno C.",
+        "rol": "Egresado, 2 años trabajando",
+        "texto": "Lo que más uso en mi trabajo diario no es lo más técnico que aprendí, sino cómo pensar en procesos: ver un problema y descomponerlo en pasos más simples. Eso te lo da la carrera, sin importar en qué termines trabajando."
+      }
+    ],
+    "entrevistas": [
+      {
+        "nombre": "Ing. César Araiza",
+        "cargo_actual": "Ingeniero Industrial y de Sistemas",
+        "video_url": "https://www.youtube.com/watch?v=-ngn0-oBLeU",
+        "resumen": "Cuenta de qué trata realmente la carrera, en qué se puede trabajar, y qué fue lo que más y menos le gustó de estudiarla."
+      },
+      {
+        "nombre": "Testimonio de ingeniero recién egresado",
+        "cargo_actual": "Ingeniero, egresado en 2024",
+        "video_url": "https://www.youtube.com/watch?v=bTbw5-i2AKU",
+        "resumen": "Un ingeniero recién graduado cuenta, siete meses después de egresar, las cosas que no se esperaba de la carrera ni del primer año trabajando."
+      }
+    ]
+  }

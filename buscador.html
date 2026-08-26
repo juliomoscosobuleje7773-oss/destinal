@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Destinal</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="topbar">
+    <a href="index.html" class="brand">
+      <svg width="28" height="28" viewBox="0 0 72 72">
+        <circle cx="36" cy="36" r="30" fill="#EEEDFE" stroke="#534AB7" stroke-width="2"/>
+        <polygon points="36,20 41,36 36,52 31,36" fill="#534AB7"/>
+      </svg>
+      <span class="brand-name">Destinal</span>
+    </a>
+    <div class="topbar-icons">
+      <span title="Favoritas">♥</span>
+      <div class="avatar">JP</div>
+    </div>
+  </header>
+
+  <main class="container">
+
+    <section class="rumbo-card">
+      <svg width="44" height="44" viewBox="0 0 72 72">
+        <circle cx="36" cy="36" r="30" fill="#EEEDFE" stroke="#534AB7" stroke-width="2"/>
+        <polygon points="36,20 41,36 36,52 31,36" fill="#534AB7"/>
+        <circle cx="31" cy="32" r="2.4" fill="#26215C"/>
+        <circle cx="41" cy="32" r="2.4" fill="#26215C"/>
+        <path d="M30 41 Q36 46 42 41" stroke="#26215C" stroke-width="2" fill="none" stroke-linecap="round"/>
+      </svg>
+      <p>Hola, soy Rumbo. ¿Qué carrera quieres explorar hoy?</p>
+    </section>
+
+    <div class="search-box">
+      <input type="text" id="buscador" placeholder="Busca una carrera, ej. Psicología">
+    </div>
+
+    <div class="chips">
+      <span class="chip chip-activo" data-cat="todas">Todas</span>
+      <span class="chip" data-cat="salud">Salud</span>
+      <span class="chip" data-cat="tecnologia">Tecnología</span>
+      <span class="chip" data-cat="artes">Artes</span>
+      <span class="chip" data-cat="sociales">Ciencias sociales</span>
+    </div>
+
+    <p class="section-label">Carreras para explorar</p>
+
+    <div class="grid" id="grid-carreras"></div>
+
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>

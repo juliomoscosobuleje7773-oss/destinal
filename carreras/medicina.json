@@ -1,0 +1,169 @@
+{
+    "slug": "medicina",
+    "nombre": "Medicina",
+    "categoria": "salud",
+    "icono": "imagenes/medicina.png",
+    "resumen": "Diagnostica, trata y previene enfermedades para cuidar la salud y salvar vidas humanas. Combina la ciencia con la atención directa para mejorar el bienestar físico de los pacientes.",
+    "exigencia": "Muy alta: memorización intensa de teoría, guardias extensas y atención de pacientes, con alta carga práctica y responsabilidad emocional.",
+    "campo_laboral": "Hospitales, clínicas privadas, investigación médica, salud pública, docencia. La mayoría necesita una especialización o residencia médica después de la carrera para ejercer una rama específica.",
+    "famosos": [
+  {
+    "imagen": "imagenes/hipocrates.jpg",
+    "nombre": "Hipócrates",
+    "conocido_por": "Padre de la Medicina",
+    "biografia": "Considerado el padre de la medicina moderna, Hipócrates estableció principios éticos para la práctica médica que aún se siguen hoy en día.",
+    "resena": "Un referente para entender la ética y la práctica médica desde sus inicios."
+  },
+  {
+    "imagen": "imagenes/barnard.jpg",
+    "nombre": "Christiaan Barnard",
+    "conocido_por": "Realizó el primer trasplante de corazón exitoso",
+    "biografia": "Christiaan Barnard fue un cirujano sudafricano que realizó el primer trasplante de corazón exitoso en 1967.",
+    "resena": "Un referente para entender los avances en cirugía y trasplantes de órganos."
+  },
+  {
+    "imagen": "imagenes/galeno.jpg",
+    "nombre": "Galeno",
+    "conocido_por": "Médico y filósofo griego",
+    "biografia": "Galeno fue un médico y filósofo griego que vivió en el siglo II d.C. y es considerado uno de los más importantes de la historia de la medicina.",
+    "resena": "Un referente para entender la medicina antigua y su influencia en la medicina moderna."
+  },
+  {
+    "imagen": "imagenes/daniel-carrión.jpg",
+    "nombre": "Daniel Alcides Carrión García",
+    "conocido_por": "Mártir de la Medicina Peruana",
+    "biografia": "Daniel Alcides Carrión García fue un médico peruano que trabajó en la investigación de la tuberculosis y es conocido por su sacrificio durante la epidemia de 1918.",
+    "resena": "Un referente para entender la importancia de la ética y el sacrificio en el ejercicio de la medicina."
+  },
+  {
+    "imagen": "imagenes/virginia-apgar.jpg",
+    "nombre": "Virginia Apgar",
+    "conocido_por": "Médica estadounidense, creadora del test de Apgar",
+    "biografia": "Virginia Apgar fue una médica estadounidense que desarrolló el test de Apgar, una herramienta crucial para evaluar la condición de los recién nacidos.",
+    "resena": "Un referente para entender cómo la tecnología puede ser utilizada para mejorar la atención médica en el nacimiento."
+  },
+  {
+    "imagen": "imagenes/jonas-salk.jpg",
+    "nombre": "Jonas Salk",
+    "conocido_por": "Médico estadounidense, creador de la vacuna contra la poliomielitis",
+    "biografia": "Jonas Salk fue un médico estadounidense que desarrolló la primera vacuna efectiva contra la poliomielitis.",
+    "resena": "Un referente para entender cómo la tecnología puede ser utilizada para desarrollar vacunas y tratamientos médicos."
+  },
+  {
+    "imagen": "imagenes/alexander-fleming.jpg",
+    "nombre": "Alexander Fleming",
+    "conocido_por": "Científico escocés, descubridor de la penicilina",
+    "biografia": "Alexander Fleming fue un científico escocés que descubrió la penicilina, el primer antibiótico efectivo.",
+    "resena": "Un referente para entender cómo la tecnología puede ser utilizada para desarrollar tratamientos médicos."
+  },
+  {
+    "imagen": "imagenes/joseph-lister.jpg",
+    "nombre": "Joseph Lister",
+    "conocido_por": "Médico británico, pionero en la esterilización durante cirugías",
+    "biografia": "Joseph Lister fue un médico británico que introdujo el uso de fenol para esterilizar heridas y equipo quirúrgico, reduciendo significativamente las infecciones postoperatorias.",
+    "resena": "Un referente para entender cómo la tecnología puede ser utilizada para mejorar la seguridad en los procedimientos médicos."
+  },
+  {
+    "imagen": "imagenes/robert-koch.jpg",
+    "nombre": "Robert Koch",
+    "conocido_por": "Científico alemán, descubridor del bacilo del tuberculosis",
+    "biografia": "Robert Koch fue un científico alemán que descubrió el bacilo del tuberculosis, contribuyendo significativamente al entendimiento de las enfermedades infecciosas.",
+    "resena": "Un referente para entender cómo la tecnología puede ser utilizada para desarrollar diagnósticos y tratamientos para enfermedades infecciosas."
+  },
+  {
+    "imagen": "imagenes/louis-pasteur.jpg",
+    "nombre": "Louis Pasteur",
+    "conocido_por": "Científico francés, descubridor de la pasteurización y vacunas",
+    "biografia": "Louis Pasteur fue un científico francés que desarrolló el proceso de pasteurización y creó vacunas contra la rabia y la peste.",
+    "resena": "Un referente para entender cómo la tecnología puede ser utilizada para prevenir enfermedades y mejorar la salud pública."
+  }
+],
+    "podcasts": [
+      {
+        "titulo": "¿Realmente vale la pena estudiar Medicina?",
+        "youtube_url": "https://www.youtube.com/watch?v=DqtStPWTRLs",
+        "descripcion": "Analiza con honestidad los pros y contras reales de estudiar la carrera antes de decidirte."
+      },
+      {
+        "titulo": "Lo que nadie te dice sobre estudiar Medicina",
+        "youtube_url": "https://www.youtube.com/watch?v=GsCt2ovPkyc",
+        "descripcion": "Cuenta las partes menos conocidas de la carrera que normalmente nadie te explica antes de entrar."
+      }
+    ],
+    "libros": [
+      {
+        "titulo": "Esto va a doler: diarios secretos de un médico junior",
+        "autor": "Adam Kay",
+        "portada": "imagenes/libro9.jpg",
+        "resena": "Un médico joven cuenta sin filtro cómo es realmente el día a día en un hospital, con humor y crudeza. Best-seller mundial, ideal para el primer año."
+      },
+      {
+        "titulo": "El hombre que confundió a su mujer con un sombrero",
+        "autor": "Oliver Sacks",
+        "portada": "imagenes/libro10.jpg",
+        "resena": "Casos reales de pacientes con trastornos neurológicos extraños, contados como historias fascinantes. Te engancha aunque no sepas nada de neurología todavía."
+      },
+      {
+        "titulo": "Ante todo, no hagas daño",
+        "autor": "Henry Marsh",
+        "portada": "imagenes/libro11.jpg",
+        "resena": "Un neurocirujano relata con honestidad brutal los éxitos y fracasos de su carrera. Elegido mejor libro del año por el Financial Times."
+      },
+      {
+        "titulo": "The Intern Blues",
+        "autor": "Robert Marion",
+        "portada": "imagenes/libro12.jpg",
+        "resena": "Sigue a tres estudiantes reales durante su primer año de formación, con semanas de hasta 100 horas de trabajo. Muestra la exigencia real de la carrera sin adornos."
+      }
+    ],
+    "resenas": [
+      {
+        "autor": "Rodrigo T.",
+        "rol": "Estudiante, 4to ciclo",
+        "texto": "Todo el mundo te advierte que es una carrera larga y exigente, pero nadie te prepara para lo mental que es: memorizar muchísimo en poco tiempo y aun así sentir que no sabes suficiente. Si no te apasiona de verdad, se hace muy difícil sostenerlo."
+      },
+      {
+        "autor": "Paola G.",
+        "rol": "Egresada, 2 años trabajando",
+        "texto": "Lo que más me marcó no fueron los libros, sino el primer contacto real con pacientes. Ahí entiendes que la carrera no es solo ciencia, es también aprender a manejar tus propias emociones frente al sufrimiento de otros."
+      }
+    ],
+    "entrevistas": [
+      {
+        "nombre": "Dra. Mariana Gómez",
+        "cargo_actual": "Médica egresada, creadora de contenido",
+        "video_url": "https://www.youtube.com/watch?v=evvoUYv8PG8",
+        "resumen": "Cuenta cómo es realmente la vida de un estudiante de medicina, desde las exigencias académicas hasta el día a día en el hospital."
+      },
+      {
+        "nombre": "Testimonio de médica junior",
+        "cargo_actual": "Médica, ex trabajadora de Urgencias",
+        "video_url": "https://www.youtube.com/watch?v=oB0JD9JiUq0",
+        "resumen": "Comparte por qué decidió estudiar medicina y cómo fue su experiencia trabajando varios años en el área de Urgencias."
+      }
+    ],
+    "minijuegos": [
+  {
+    "titulo": "Un paciente no quiere seguir el tratamiento",
+    "situacion": "Un paciente con una enfermedad crónica te dice que dejará de tomar su medicamento porque 'se siente bien' y no quiere depender de pastillas. ¿Qué haces?",
+    "opciones": [
+      "Le dices que es su decisión y no insistes más",
+      "Le das un ultimátum: o sigue el tratamiento o no vuelves a atenderlo",
+      "Le explicas con calma los riesgos reales de suspenderlo y buscas entender su preocupación de fondo"
+    ],
+    "respuesta_correcta": 2,
+    "explicacion": "La adherencia al tratamiento mejora cuando el médico entiende las razones del paciente y explica los riesgos con empatía, en vez de simplemente aceptar o imponer una decisión sin diálogo."
+  },
+  {
+    "titulo": "Estás agotado tras un turno de 24 horas",
+    "situacion": "Terminaste un turno larguísimo y aún tienes que revisar a un paciente más antes de irte. Te sientes física y mentalmente agotado. ¿Qué haces?",
+    "opciones": [
+      "Pides apoyo a un colega o supervisor para asegurar que el paciente reciba una atención adecuada, reconociendo tu propio límite",
+      "Revisas al paciente rápido para terminar cuanto antes",
+      "Te vas sin revisarlo, ya cumpliste tu turno"
+    ],
+    "respuesta_correcta": 0,
+    "explicacion": "Reconocer el propio agotamiento y pedir apoyo es parte de la ética médica: la seguridad del paciente depende de que el profesional actúe con la lucidez necesaria, no de resistir a toda costa."
+  }
+]
+  }
